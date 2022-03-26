@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				18
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BF up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "BF right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				12
+			],
+			"anim": "hey",
+			"fps": 30,
+			"name": "BF victory",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				29
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF miss up"
+		},
+		{
+			"offsets": [
+				-20,
+				-6
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF miss right"
+		},
+		{
+			"offsets": [
+				15,
+				-17
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF miss left"
+		},
+		{
+			"offsets": [
+				-30,
+				-13
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF miss down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF-(2005)",
+	"position": [
+		50,
+		350
+	],
+	"healthicon": "Bf-(2005)",
+	"flip_x": true,
+	"healthbar_colors": [
+		115,
+		135,
+		255
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 1
+}

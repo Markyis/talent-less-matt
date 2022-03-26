@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-3
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF right"
+		},
+		{
+			"offsets": [
+				-29,
+				-54
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF miss down"
+		},
+		{
+			"offsets": [
+				-4,
+				-8
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF miss right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "BF left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "BF down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "BF miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				69
+			],
+			"anim": "singUPmiss",
+			"fps": 30,
+			"name": "BF miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				27
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "BF up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/altra-bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.49999999999999,
+	"scale": 1
+}
