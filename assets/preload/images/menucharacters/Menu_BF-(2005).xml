@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_BF-(2005).png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF menu instancia 10000" x="1" y="1" width="216" height="324" frameX="-15" frameY="-15" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10001" x="1" y="1" width="216" height="324" frameX="-15" frameY="-15" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10002" x="1" y="1" width="216" height="324" frameX="-15" frameY="-15" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10003" x="218" y="1" width="229" height="334" frameX="-7" frameY="-5" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10004" x="218" y="1" width="229" height="334" frameX="-7" frameY="-5" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10005" x="218" y="1" width="229" height="334" frameX="-7" frameY="-5" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10006" x="218" y="1" width="229" height="334" frameX="-7" frameY="-5" frameWidth="240" frameHeight="339"/>
+	<SubTexture name="BF menu instancia 10007" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10008" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10009" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10010" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10011" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10012" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF menu instancia 10013" x="1" y="336" width="240" height="339"/>
+	<SubTexture name="BF pose instancia 10000" x="242" y="336" width="247" height="340"/>
+	<SubTexture name="BF pose instancia 10001" x="242" y="336" width="247" height="340"/>
+	<SubTexture name="BF pose instancia 10002" x="1" y="677" width="235" height="337" frameX="-9" frameY="-3" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10003" x="1" y="677" width="235" height="337" frameX="-9" frameY="-3" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10004" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10005" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10006" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10007" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10008" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10009" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10010" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10011" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10012" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10013" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10014" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10015" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10016" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10017" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10018" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10019" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10020" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10021" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10022" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10023" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10024" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10025" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10026" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10027" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10028" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10029" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10030" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10031" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10032" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10033" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10034" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10035" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10036" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10037" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10038" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10039" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10040" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10041" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10042" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10043" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10044" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10045" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10046" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10047" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10048" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10049" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10050" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10051" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10052" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10053" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10054" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10055" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10056" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10057" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10058" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10059" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10060" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10061" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10062" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10063" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10064" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10065" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10066" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10067" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10068" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10069" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10070" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10071" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10072" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10073" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10074" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10075" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10076" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10077" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10078" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10079" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10080" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10081" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10082" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10083" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10084" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10085" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10086" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10087" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10088" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+	<SubTexture name="BF pose instancia 10089" x="237" y="677" width="223" height="334" frameX="-19" frameY="-6" frameWidth="247" frameHeight="340"/>
+</TextureAtlas>

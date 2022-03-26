@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_EW-mobile.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EW mobile menu instancia 10000" x="1" y="1" width="520" height="368" frameX="0" frameY="-25" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10001" x="1" y="370" width="520" height="379" frameX="0" frameY="-14" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10002" x="1" y="370" width="520" height="379" frameX="0" frameY="-14" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10003" x="1" y="750" width="520" height="388" frameX="0" frameY="-5" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10004" x="1" y="750" width="520" height="388" frameX="0" frameY="-5" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10005" x="1" y="750" width="520" height="388" frameX="0" frameY="-5" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10006" x="1" y="750" width="520" height="388" frameX="0" frameY="-5" frameWidth="520" frameHeight="393"/>
+	<SubTexture name="EW mobile menu instancia 10007" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10008" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10009" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10010" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10011" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10012" x="1" y="1139" width="520" height="393"/>
+	<SubTexture name="EW mobile menu instancia 10013" x="1" y="1139" width="520" height="393"/>
+</TextureAtlas>

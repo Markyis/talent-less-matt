@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF menu2",
+	"idle_anim": "BF menu",
+	"position": [
+		0,
+		-25
+	],
+	"scale": 1,
+	"image": "Menu_BF-(2005)",
+	"flipX": false
+}

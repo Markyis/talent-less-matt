@@ -1,0 +1,11 @@
+{
+	"idle_anim": "EW mobile menu",
+	"confirm_anim": "BF menu2",
+	"position": [
+		50,
+		19
+	],
+	"scale": 0.95,
+	"flipX": false,
+	"image": "Menu_EW-mobile"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Matt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt menu instancia 10000" x="1" y="1" width="211" height="355" frameX="0" frameY="-25" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10001" x="213" y="1" width="187" height="364" frameX="-15" frameY="-16" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10002" x="213" y="1" width="187" height="364" frameX="-15" frameY="-16" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10003" x="1" y="366" width="170" height="372" frameX="-24" frameY="-8" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10004" x="1" y="366" width="170" height="372" frameX="-24" frameY="-8" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10005" x="1" y="366" width="170" height="372" frameX="-24" frameY="-8" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10006" x="1" y="366" width="170" height="372" frameX="-24" frameY="-8" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10007" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10008" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10009" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10010" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10011" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10012" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+	<SubTexture name="matt menu instancia 10013" x="172" y="366" width="150" height="380" frameX="-34" frameY="0" frameWidth="211" frameHeight="380"/>
+</TextureAtlas>

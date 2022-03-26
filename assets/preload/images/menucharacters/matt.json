@@ -1,0 +1,11 @@
+{
+	"idle_anim": "matt menu",
+	"image": "Menu_matt",
+	"position": [
+		0,
+		10
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": ""
+}
