@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar instancia 10000" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10001" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10002" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10003" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10004" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10005" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10006" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10007" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10008" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10009" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10010" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10011" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10012" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10013" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10014" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10015" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10016" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10017" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10018" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10019" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10020" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10021" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10022" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10023" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10024" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10025" x="1" y="1" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10026" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10027" x="825" y="1" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10028" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10029" x="1" y="850" width="823" height="848"/>
+	<SubTexture name="spacebar instancia 10030" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+	<SubTexture name="spacebar instancia 10031" x="825" y="850" width="793" height="845" frameX="-18" frameY="0" frameWidth="823" frameHeight="848"/>
+</TextureAtlas>
