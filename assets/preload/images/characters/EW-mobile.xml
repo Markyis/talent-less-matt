@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EW-mobile.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EW mobile idle instancia 10000" x="1" y="1" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10001" x="869" y="1" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10002" x="869" y="1" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10003" x="1" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10004" x="1" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10005" x="1" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10006" x="1" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10007" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10008" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10009" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10010" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10011" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10012" x="869" y="655" width="867" height="653"/>
+	<SubTexture name="EW mobile idle instancia 10013" x="869" y="655" width="867" height="653"/>
+</TextureAtlas>

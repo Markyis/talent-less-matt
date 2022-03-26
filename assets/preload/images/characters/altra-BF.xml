@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="altra-BF.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF down instancia 10000" x="1" y="1" width="357" height="357" frameX="0" frameY="-25" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10001" x="1" y="1" width="357" height="357" frameX="0" frameY="-25" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10002" x="359" y="1" width="351" height="361" frameX="-6" frameY="-22" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10003" x="359" y="1" width="351" height="361" frameX="-6" frameY="-22" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10004" x="359" y="1" width="351" height="361" frameX="-6" frameY="-22" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10005" x="359" y="1" width="351" height="361" frameX="-6" frameY="-22" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10006" x="711" y="1" width="351" height="368" frameX="-13" frameY="-13" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10007" x="711" y="1" width="351" height="368" frameX="-13" frameY="-13" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10008" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10009" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10010" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10011" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10012" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10013" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10014" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10015" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10016" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10017" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10018" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10019" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10020" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10021" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10022" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10023" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10024" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10025" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10026" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10027" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10028" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF down instancia 10029" x="1063" y="1" width="346" height="383" frameX="-18" frameY="0" frameWidth="364" frameHeight="383"/>
+	<SubTexture name="BF idle dance instancia 10000" x="1410" y="1" width="405" height="392" frameX="-1" frameY="-21" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10001" x="1410" y="1" width="405" height="392" frameX="-1" frameY="-21" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10002" x="1" y="394" width="408" height="395" frameX="0" frameY="-19" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10003" x="1" y="394" width="408" height="395" frameX="0" frameY="-19" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10004" x="410" y="394" width="406" height="400" frameX="-2" frameY="-14" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10005" x="410" y="394" width="406" height="400" frameX="-2" frameY="-14" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10006" x="817" y="394" width="410" height="412" frameX="-1" frameY="-2" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10007" x="817" y="394" width="410" height="412" frameX="-1" frameY="-2" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10008" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10009" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10010" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10011" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10012" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10013" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF idle dance instancia 10014" x="1228" y="394" width="408" height="414" frameX="-2" frameY="0" frameWidth="411" frameHeight="414"/>
+	<SubTexture name="BF left instancia 10000" x="1637" y="394" width="381" height="406" frameX="-11" frameY="-4" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10001" x="1637" y="394" width="381" height="406" frameX="-11" frameY="-4" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10002" x="1" y="809" width="394" height="404" frameX="0" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10003" x="1" y="809" width="394" height="404" frameX="0" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10004" x="1" y="809" width="394" height="404" frameX="0" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10005" x="1" y="809" width="394" height="404" frameX="0" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10006" x="396" y="809" width="392" height="404" frameX="-16" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10007" x="396" y="809" width="392" height="404" frameX="-16" frameY="-6" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10008" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10009" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10010" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10011" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10012" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10013" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10014" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10015" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10016" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10017" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10018" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10019" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10020" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10021" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10022" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10023" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10024" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10025" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10026" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10027" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10028" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF left instancia 10029" x="789" y="809" width="401" height="410" frameX="-30" frameY="0" frameWidth="431" frameHeight="410"/>
+	<SubTexture name="BF miss down instancia 10000" x="1191" y="809" width="356" height="357" frameX="0" frameY="0" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10001" x="1548" y="809" width="356" height="335" frameX="-1" frameY="-22" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10002" x="1548" y="809" width="356" height="335" frameX="-1" frameY="-22" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10003" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10004" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10005" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10006" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10007" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10008" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10009" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10010" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10011" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10012" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10013" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10014" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10015" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10016" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10017" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10018" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10019" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10020" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10021" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10022" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10023" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10024" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10025" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10026" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10027" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10028" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss down instancia 10029" x="1" y="1220" width="356" height="319" frameX="-1" frameY="-38" frameWidth="357" frameHeight="357"/>
+	<SubTexture name="BF miss left instancia 10000" x="358" y="1220" width="380" height="406" frameX="0" frameY="-2" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10001" x="739" y="1220" width="383" height="407" frameX="-2" frameY="0" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10002" x="739" y="1220" width="383" height="407" frameX="-2" frameY="0" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10003" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10004" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10005" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10006" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10007" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10008" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10009" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10010" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10011" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10012" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10013" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10014" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10015" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10016" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10017" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10018" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10019" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10020" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10021" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10022" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10023" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10024" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10025" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10026" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10027" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10028" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss left instancia 10029" x="1123" y="1220" width="388" height="406" frameX="-9" frameY="-1" frameWidth="397" frameHeight="408"/>
+	<SubTexture name="BF miss right instancia 10000" x="1512" y="1220" width="439" height="405" frameX="-10" frameY="-1" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10001" x="1" y="1628" width="433" height="405" frameX="-7" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10002" x="1" y="1628" width="433" height="405" frameX="-7" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10003" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10004" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10005" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10006" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10007" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10008" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10009" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10010" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10011" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10012" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10013" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10014" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10015" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10016" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10017" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10018" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10019" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10020" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10021" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10022" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10023" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10024" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10025" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10026" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10027" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10028" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss right instancia 10029" x="435" y="1628" width="421" height="405" frameX="0" frameY="0" frameWidth="449" frameHeight="406"/>
+	<SubTexture name="BF miss up instancia 10000" x="857" y="1628" width="368" height="445" frameX="-2" frameY="-51" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10001" x="1226" y="1628" width="368" height="473" frameX="0" frameY="-19" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10002" x="1226" y="1628" width="368" height="473" frameX="0" frameY="-19" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10003" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10004" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10005" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10006" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10007" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10008" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10009" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10010" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10011" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10012" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10013" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10014" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10015" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10016" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10017" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10018" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10019" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10020" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10021" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10022" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10023" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10024" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10025" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10026" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10027" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10028" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF miss up instancia 10029" x="1595" y="1628" width="368" height="491" frameX="-1" frameY="0" frameWidth="370" frameHeight="496"/>
+	<SubTexture name="BF right instancia 10000" x="1" y="2120" width="440" height="405" frameX="-26" frameY="-5" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10001" x="1" y="2120" width="440" height="405" frameX="-26" frameY="-5" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10002" x="442" y="2120" width="459" height="407" frameX="-5" frameY="-3" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10003" x="442" y="2120" width="459" height="407" frameX="-5" frameY="-3" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10004" x="442" y="2120" width="459" height="407" frameX="-5" frameY="-3" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10005" x="442" y="2120" width="459" height="407" frameX="-5" frameY="-3" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10006" x="902" y="2120" width="445" height="410" frameX="-2" frameY="0" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10007" x="902" y="2120" width="445" height="410" frameX="-2" frameY="0" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10008" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10009" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10010" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10011" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10012" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10013" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10014" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10015" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10016" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10017" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10018" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10019" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10020" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10021" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10022" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10023" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10024" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10025" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10026" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10027" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10028" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF right instancia 10029" x="1348" y="2120" width="438" height="408" frameX="0" frameY="-2" frameWidth="466" frameHeight="410"/>
+	<SubTexture name="BF up instancia 10000" x="1" y="2531" width="369" height="445" frameX="-3" frameY="0" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10001" x="1" y="2531" width="369" height="445" frameX="-3" frameY="0" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10002" x="371" y="2531" width="376" height="439" frameX="0" frameY="-6" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10003" x="371" y="2531" width="376" height="439" frameX="0" frameY="-6" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10004" x="371" y="2531" width="376" height="439" frameX="0" frameY="-6" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10005" x="371" y="2531" width="376" height="439" frameX="0" frameY="-6" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10006" x="748" y="2531" width="380" height="431" frameX="-6" frameY="-14" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10007" x="748" y="2531" width="380" height="431" frameX="-6" frameY="-14" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10008" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10009" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10010" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10011" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10012" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10013" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10014" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10015" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10016" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10017" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10018" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10019" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10020" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10021" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10022" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10023" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10024" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10025" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10026" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10027" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10028" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+	<SubTexture name="BF up instancia 10029" x="1129" y="2531" width="377" height="435" frameX="-5" frameY="-10" frameWidth="386" frameHeight="445"/>
+</TextureAtlas>
