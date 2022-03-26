@@ -1,0 +1,32 @@
+{
+	"storyName": "cover and sprites made BY (nicomon2007)",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"BF-(2005)-menu",
+		"EW-mobile"
+	],
+	"songs": [
+		[
+			"talentless-fox",
+			"Matt",
+			[
+				235,
+				95,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
